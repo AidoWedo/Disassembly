@@ -1,4 +1,4 @@
-IdaRef
+IdaRef - From this repo https://github.com/nologic/idaref
 ======
 IDA Pro Full Instruction Reference Plugin - It's like auto-comments but useful.
 
